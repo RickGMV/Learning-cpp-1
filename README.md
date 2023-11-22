@@ -1,5 +1,5 @@
 # Learning-cpp-1
-Stupid shit for morons
+## Stupid shit for morons
 Тупое говно тупого говна
 Это вообще можно не читать
 Просто пытаюсь понять как жить на этом сайте
